@@ -10,7 +10,7 @@ html {
   margin-bottom: 5px;
   height: 20px;
   width: 160px;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.826);
 }
 
 button {
